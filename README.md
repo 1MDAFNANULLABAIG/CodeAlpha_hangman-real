@@ -1,0 +1,1 @@
+A Python-based Hangman Game where players guess letters to uncover a hidden word before exhausting all attempts. This project demonstrates the use of loops, conditional statements, lists, strings, and randomization in Python.
